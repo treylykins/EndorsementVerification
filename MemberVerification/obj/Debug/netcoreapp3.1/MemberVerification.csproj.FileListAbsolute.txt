@@ -1,0 +1,13 @@
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\bin\Debug\netcoreapp3.1\MemberVerification.exe
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\bin\Debug\netcoreapp3.1\MemberVerification.deps.json
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\bin\Debug\netcoreapp3.1\MemberVerification.runtimeconfig.json
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\bin\Debug\netcoreapp3.1\MemberVerification.runtimeconfig.dev.json
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\bin\Debug\netcoreapp3.1\MemberVerification.dll
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\bin\Debug\netcoreapp3.1\MemberVerification.pdb
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\obj\Debug\netcoreapp3.1\MemberVerification.AssemblyInfoInputs.cache
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\obj\Debug\netcoreapp3.1\MemberVerification.AssemblyInfo.cs
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\obj\Debug\netcoreapp3.1\MemberVerification.csproj.CoreCompileInputs.cache
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\obj\Debug\netcoreapp3.1\MemberVerification.dll
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\obj\Debug\netcoreapp3.1\MemberVerification.pdb
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\obj\Debug\netcoreapp3.1\MemberVerification.genruntimeconfig.cache
+C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\obj\Debug\netcoreapp3.1\MemberVerification.csproj.AssemblyReference.cache

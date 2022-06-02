@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MemberVerification": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\tlykins\\OneDrive - UTILANT LLC\\Documents\\34\\Poll Verification\\members.csv\" \"C:\\Users\\tlykins\\OneDrive - UTILANT LLC\\Documents\\34\\Poll Verification\\voters2.csv\" \"C:\\Users\\tlykins\\OneDrive - UTILANT LLC\\Documents\\34\\Poll Verification\\suspectVotes.csv\" \"C:\\Users\\tlykins\\OneDrive - UTILANT LLC\\Documents\\34\\Poll Verification\\aliases.csv\""
+    }
+  }
+}
