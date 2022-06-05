@@ -2,7 +2,7 @@
   "profiles": {
     "MemberVerification": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\tlykins\\OneDrive - UTILANT LLC\\Documents\\34\\Poll Verification\\members.csv\" \"C:\\Users\\tlykins\\OneDrive - UTILANT LLC\\Documents\\34\\Poll Verification\\voters2.csv\" \"C:\\Users\\tlykins\\OneDrive - UTILANT LLC\\Documents\\34\\Poll Verification\\suspectVotes.csv\" \"C:\\Users\\tlykins\\OneDrive - UTILANT LLC\\Documents\\34\\Poll Verification\\aliases.csv\""
+      "commandLineArgs": "\"C:\\Code\\34Dems\\Endorsements\\members.csv\" \"C:\\Code\\34Dems\\Endorsements\\voters.csv\" \"C:\\Code\\34Dems\\Endorsements\\suspects.csv\" \"C:\\Code\\34Dems\\Endorsements\\aliases.csv\" \"C:\\Code\\34Dems\\Endorsements\\manual.csv\" \"C:\\Code\\34Dems\\Endorsements\\outsiders.csv\" \"C:\\Code\\34Dems\\Endorsements\\late.csv\""
     }
   }
 }

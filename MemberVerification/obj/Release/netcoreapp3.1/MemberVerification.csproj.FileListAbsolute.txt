@@ -11,3 +11,17 @@ C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\obj\Release\
 C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\obj\Release\netcoreapp3.1\MemberVerification.pdb
 C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\obj\Release\netcoreapp3.1\MemberVerification.genruntimeconfig.cache
 C:\Users\tlykins\source\repos\MemberVerification\MemberVerification\obj\Release\netcoreapp3.1\MemberVerification.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\bin\Release\netcoreapp3.1\MemberVerification.exe
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\bin\Release\netcoreapp3.1\MemberVerification.deps.json
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\bin\Release\netcoreapp3.1\MemberVerification.runtimeconfig.json
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\bin\Release\netcoreapp3.1\MemberVerification.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\bin\Release\netcoreapp3.1\MemberVerification.dll
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\bin\Release\netcoreapp3.1\MemberVerification.pdb
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\obj\Release\netcoreapp3.1\MemberVerification.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\obj\Release\netcoreapp3.1\MemberVerification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\obj\Release\netcoreapp3.1\MemberVerification.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\obj\Release\netcoreapp3.1\MemberVerification.AssemblyInfo.cs
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\obj\Release\netcoreapp3.1\MemberVerification.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\obj\Release\netcoreapp3.1\MemberVerification.dll
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\obj\Release\netcoreapp3.1\MemberVerification.pdb
+C:\Users\User\Source\Repos\EndorsementVerification\MemberVerification\obj\Release\netcoreapp3.1\MemberVerification.genruntimeconfig.cache
